@@ -1,5 +1,5 @@
 # JumaTX136Controler
-这是juma tx136 v1.15的python桌面端控制程序
+仓库包含了原始jumatx136的相关资料和我自己写的juma tx136 v1.15的python桌面端控制程序
 
 serialafp test.py 是用于测试串口发送AFP指令的小工具
 
