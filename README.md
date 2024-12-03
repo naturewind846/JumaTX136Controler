@@ -12,3 +12,5 @@ Juma TX136 AFP串口fsk.py 使用FFT、零填充和抛物线插值的方法，�
 jumatx136 v1.1.py 目前已经实现全部串口控制功能，由于py上tk比较卡，正在考虑重写。
 
 jumatx136 v1.2.exe 是1.1用nuitka重新编译的，相比pyinstaller更节省空间和资源
+
+RTTYFSK是使用mmtty的rtty发射脚本
